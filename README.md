@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lfelipeavila/" target="blank">Linkedin</a><br>
-<a href="https://instagram.com/https://www.instagram.com/l.f.avila/" target="blank">Instagram</a>
+<a href="https://www.linkedin.com/in/lfelipeavila/" target="blank">Linkedin</a><br>
+<a href="https://www.instagram.com/l.f.avila/" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
