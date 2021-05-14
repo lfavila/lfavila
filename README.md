@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-%md <a href="https://google.com" target="_blank">google link</a>
 <a href="https://linkedin.com/in/lfelipeavila" target="_blank" rel="noopener">Linkedin</a><br>
 <a href="https://www.instagram.com/l.f.avila/" target="_blank" rel="noopener">Instagram</a>
 </p>
