@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[Linkedin](https://linkedin.com/in/lfelipeavila" target="_blank)<br>
+[Linkedin](https://linkedin.com/in/lfelipeavila){target="_blank"}<br>
 <a href="https://www.instagram.com/l.f.avila/" target="blank" rel="noopener">Instagram</a>
 </p>
 
