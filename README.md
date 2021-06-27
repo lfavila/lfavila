@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Luís Felipe</h1>
-<h3 align="center">Sou desenvolvedor Front-End 👨‍💻</h3>
+<h3 align="center">Sou desenvolvedor Full Stack 👨‍💻</h3>
 
 - 🌱 atualmente, estudo na **Trybe**
 
